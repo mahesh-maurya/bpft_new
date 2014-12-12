@@ -1,0 +1,81 @@
+@media screen and (max-width: 767px) {
+    .style-text {
+        width: 295px;
+    }
+    .blender-bottom h5 {
+        font-size: 14px;
+    }
+    .mid-content h3 {
+        font-size: 46px;
+    }
+    .profile-details h4 {
+        text-align: center;
+    }
+    .profile-pic {
+        margin: 0 auto;
+        float: none;
+    }
+    .inoverlay {
+        width: 100% important;
+    }
+    img.proimage {
+        width: 100%;
+    }
+    .profile-text h3 {
+        font-size: 18px;
+    }
+    .prof-mini {
+        left: 25%;
+    }
+    .blenderoverlay {
+        overflow: scroll;
+    }
+    .col-xs-3.item {
+        height: 190px;
+    }
+    .blender-img h2 {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .carousel-caption {
+        position: absolute;
+        bottom: 7%;
+    }
+    .blendertopmenu {
+        width: 100% !important;
+        border-radius: 0px !important;
+    }
+    .content-priya {
+        margin: 50% 0px;
+    }
+    .topleave {
+        margin-top: 90px !important;
+    }
+    .section.reset {
+        background: none;
+    }
+    .item {
+        height: 520px;
+    }
+    .gift-head1 {
+        width: 100%;
+    }
+    h4 {
+        font-size: 30px !important;
+    }
+    .profile-details {
+        text-align: center;
+    }
+    .row.social-like {
+        display: none;
+    }
+    .follow {
+        margin: 50% 0;
+    }
+    .signin {
+        width: 108%;
+    }
+    .col-md-3.col1.posts {
+        width: 100%;
+    }
+}
